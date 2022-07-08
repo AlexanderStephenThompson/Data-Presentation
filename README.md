@@ -1,5 +1,7 @@
-# OS-Scripting
+# Automation
 
-## Power Shell
+## Web Scraping
 
-## Bash
+## APIs
+
+## Boring Tasks
