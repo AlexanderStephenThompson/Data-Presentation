@@ -1,7 +1,3 @@
-# Automation
+# Home Sweet Home
 
-## Web Scraping
-
-## APIs
-
-## Boring Tasks
+This will be a repo about all the cool projects you can do for your house like servers, databases, and even safe IoT
