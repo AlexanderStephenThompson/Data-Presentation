@@ -6,4 +6,7 @@ This will be a repo about all the cool projects you can do for your house like s
 <!-- 
 Home inventory database
 Flavor pairing database and design
+
+Home media server
+Retro pi setup
 -->
