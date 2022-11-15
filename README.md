@@ -17,6 +17,8 @@ Time Management
 
 Tech
 Home media server
+Game sever
+Weather station database/api
 Retro pi setup
 IoT / Smart Homes
 Networking
