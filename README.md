@@ -1,29 +1,8 @@
-# Home Sweet Home
-
-This will be a repo about all the cool projects you can do for your house like servers, databases, and even safe IoT
-
+# DataGamer
+This is where I'll share my analytic findings while doing research
 
 <!-- 
-Kitchen
-Inventory
-Recipes
-Flavor pairing
-Meal planning & prep
-
-Productivity
-Goals
-Time Management
-
-
-Tech
-Home media server
-Game sever
-Weather station database/api
-Retro pi setup
-IoT / Smart Homes
-Networking
-Sound Systems
-
-Finance
-Budgeting
+Spreadsheets
+Documentation/Cheat sheets
+Tools (Excel, web, or Tableau)
 -->
