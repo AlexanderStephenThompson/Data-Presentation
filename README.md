@@ -1,5 +1,5 @@
-# DataGamer
-This is where I'll share my analytic findings while doing research
+# Data Analytics
+Code Based analytics using numpy and pandas as the strucutre of data and then visualization tools like plotly, matplotlib, and seaborn for data visualization. 
 
 <!-- 
 Spreadsheets
