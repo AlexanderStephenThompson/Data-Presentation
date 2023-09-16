@@ -3,5 +3,3 @@ Code Based analytics using numpy & pandas as the strucutre of data and then visu
 
 Structure: Numpy & Pandas
 Visualization: Plotly, matplotlib, and seaborn
-
-Test push.
