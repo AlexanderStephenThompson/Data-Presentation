@@ -1,5 +1,3 @@
-# Kitchen Experiments
+# Data Presentation
 
-This is where I'll use tools to collect data and perform analytics to gain insights on delicious experiments
-
-Could also implement inventory management to help make home crafting systems with meals you use. 
+With the extensive prep-work done and the data analysis completed, it is time to present the findings. Comprehensive dashboards, reports, presentations, infographics, and many other forms of data presentation can be created to communicate the findings. The intention is to effectively communicate your findings in such a way where people are empowered with new intuitive insights that can be used to make informed decisions -- whatever the context may be.
